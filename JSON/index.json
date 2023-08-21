@@ -1,0 +1,64 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "task": "Clean the closet",
+      "description": "Remember to ironing the clothes",
+      "type": "important"
+    },
+    {
+      "id": 2,
+      "task": "Make the bed",
+      "description": "Change the pillows",
+      "type": "normal"
+    },
+    {
+      "id": 3,
+      "task": "Learn react",
+      "description": "Learns a lot",
+      "type": "important"
+    },
+    {
+      "id": 4,
+      "task": "Clean the clothes",
+      "description": "Buy laundry soap",
+      "type": "Chill"
+    },
+    {
+      "task": "Clean the closet",
+      "description": "",
+      "type": "",
+      "id": 5
+    },
+    {
+      "task": "correr",
+      "description": "",
+      "type": "",
+      "id": 6
+    },
+    {
+      "task": "caminar",
+      "description": "",
+      "type": "",
+      "id": 7
+    },
+    {
+      "task": "hablar",
+      "description": "",
+      "type": "",
+      "id": 8
+    },
+    {
+      "task": "comer",
+      "description": "",
+      "type": "",
+      "id": 9
+    },
+    {
+      "task": "escalar",
+      "description": "",
+      "type": "",
+      "id": 10
+    }
+  ]
+}
