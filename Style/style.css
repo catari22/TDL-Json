@@ -133,3 +133,8 @@ p.author a {
     font-weight: 700;
     color: #000;
 }
+
+li img{
+    width: 2em;
+    height: 2em;
+}
